@@ -16,6 +16,7 @@ public class GradeConversion {
 			
 			String garbage = scan.nextLine();
 			
+			//Multitude of if statements corresponding numerical grades to letter grades
 			
 			if(grade >= 0 && grade <= 60 )
 				System.out.println("Your letter grade is an F");
